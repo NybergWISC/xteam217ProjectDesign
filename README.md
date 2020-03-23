@@ -1,5 +1,5 @@
 # xteam217ProjectDesign
 
-Title: What is your project's title?
-X-Team Number: 217
-Team Members: 
+1. Title: What is your project's title?
+2. X-Team Number: 217
+3. Team Members: 
